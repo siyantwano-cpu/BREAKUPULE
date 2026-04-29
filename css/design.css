@@ -81,7 +81,8 @@ body{
     border-radius: 0;
     border: none;
 }
-.portfolio {
-    padding-right: 250px;
-    padding-top: 150px;
+.content{
+    
+    padding-top: 10%;
+    padding-right: 30%;
 }
